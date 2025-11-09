@@ -4,11 +4,11 @@ title:  The Unacceptium Github pages
 ---
 ## Unacceptium's Github pages site
 _IMPORTANT! site is work in progress! and is in concept phase!_
-site completedness:[##========]  
+site completedness:[####======]  
 **Scroll down to learn more about me**  
 ### navigation
 [Proton Bus Skins, Edits](pbsu.md)  
-planned:Listing my, and som other's Protonbus skins and edits at one place, giving YT and download links for all of them separately  
+Listing my, and some other's Protonbus skins and edits at one place, giving YT and download links for all of them separately  
 [Luanti content](luanti.md)  
 planned:listing my, and some other's Luanti mods,Advtrains liveries, and logging my Metrotest map, other's editions of it, and its future updates, and ofc linking YT videos+download/git links  
 [Youtube channel](https://youtube.com/@unacceptium_core)  
