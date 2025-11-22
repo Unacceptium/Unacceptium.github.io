@@ -9,7 +9,7 @@ for some reason it seem that image linking doesnt work with these images, click 
   
 for basic subway wagon
 81-71 prague HD skin
-[Showcase image](https://forum.luanti.org/download/file.php?id=28828)  
+[Showcase image](https://forum.luanti.org/download/file.php?id=28826)  
 
 for basic subway wagon
 81-71 prague PID skin
