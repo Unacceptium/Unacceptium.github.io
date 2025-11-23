@@ -35,6 +35,12 @@ PanoJET fictional livery (my favorite)
 
 # Metrotest Map Project
 
+## history/about
+Metrotest is about driving a light–metro in very simple environment. the sections and stations are very simple, made to run on literal(!) potato devices, and has NO automation.
+some of the earlier versions of the map reached about 30 downloads, and the current (as writing, is 3.5) just released a while ago and already got 5 downloads. thanks to all of you for comments and downloads! i never expected myself to get this far!
+
+first, it was just an experimentation. trying out MT and advtrains.then i made one short underground scene with two stops. i played that for months, i was proud of myself xd. so i started to expand it and i reached a point where i had a lot built and i wanted to show it to someone. first i posted on reddit. i got more than 32 upvotes for some of my screenshots, and some nice comments!
+
 ## Latest Unofficial Releases
 **Nazalassa's edition**
 [Download link](https://drive.proton.me/urls/PA66Q4K0HW#I0qHVzjgfklx) based on 3.6
