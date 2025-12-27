@@ -44,8 +44,11 @@ first, it was just an experimentation. trying out MT and advtrains.then i made o
 ## Latest Unofficial Releases
 **Nazalassa's edition**
 [Download link](https://drive.proton.me/urls/PA66Q4K0HW#I0qHVzjgfklx) based on 3.6
+**Nazalassa's Automated version**
+[Forum comment with link](https://forum.luanti.org/viewtopic.php?p=448480#p448480)
 
 ## Latest Official Release
+the project may gonna be finally abandoned. my phone i made the map is dying, i got a new tab but Shizuku fails to set up on it so i can't get the map in or exported over there.
 3.6
 this version consist mostly of extension,
 precisely double tracks, one for one direction.
