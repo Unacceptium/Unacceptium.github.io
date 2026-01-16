@@ -1,6 +1,8 @@
 # Proton Bus Skins, edits
 
-## E91 Budapest Old grey-darkblue/Régi szürke-sötétkék
+i have slowed down in making of repaints lately. there are no cool mods which happen to fall under my interests and those which fall under my interests arent cool mods. all others either already has repaints or planned to have. my goal is not to be the best skin maker, instead to make skins what no one does. the opposite did and may happen in the future too, except thats not my main goal.
+
+## E91 Budapest old
 [Ikarus EAG E91](https://explozaogamer.com.br/2024/12/14/mod-ikarus-eag-e91-fase-2/)  
 [Youtube link](https://youtu.be/6e7QH6AndXc)  
 [Download link](https://drive.proton.me/urls/T0508822GM#6n7hpydSC0Tg)  
@@ -13,12 +15,14 @@
 ![alt text](https://i.ytimg.com/vi/Up-N08x0xcQ/mqdefault.jpg "412")
 
 ## e.CityGold 18 Berlin
+links go through YT redirects, gonna fix it at some point.  
 [Caetano](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFViaDlSMWZOd2E2bUJBa3kyQkNMVk9vaUFmZ3xBQ3Jtc0tuanJPbmlpZXNuQlFDWjFiYXUxTmM0MTRVLWg2ejBDa09ld25DMUlLQktaLWdyVlNER3pjNkNBdFJyYWhHWEJmZi1QbTVwRW1EcFZ3TnNuODQxa3RtdDAxbEZydEpOUGZsYW0tNW5SZVZHeU5JbGVBaw&q=https%3A%2F%2Fexplozaogamer.com.br%2F2025%2F07%2F25%2Fmod-pack-caetano-ecity-gold-fase-2%2F&v=udkhsYZHJx8)  
 [Youtube link](https://m.youtube.com/watch?v=udkhsYZHJx8&pp=0gcJCR4Bo7VqN5tD)  
 [Download link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVVqNVpUY0xoLUQ0cjEzWUxzN2VKMnZZZWlhQXxBQ3Jtc0ttTlVJaFJLX285QmRGSlNrRmpvTElmRl8tbndiMUpmMFpXMHplWU16Wkk0Z0xjWGRCcjhDMmZBaFZwZWxfZDRIYzluV2FtWDF3QmpsRHFvdXZSUm1Td0lWNWFuYUhMRGhNOERMaktReVYtVnQ2MXJBYw&q=https%3A%2F%2Fdrive.proton.me%2Furls%2FFENBFZVE2M%23jl8fsHvsFGDL&v=udkhsYZHJx8)  
 ![alt text](https://i.ytimg.com/vi_webp/udkhsYZHJx8/mqdefault.webp "caetano")
   
 ## 280 Volán/7-173E
+every skin is made by me, on my phone, with a photo editor. i was unaware of such skins already existing by other skin artists. i made these skins based on photographs, and based them on competely white 'base' skin, which means any similarities exists just because we made the same livery as a skin in the best quality we can, and because we made the same livery, our repaints happen to be very similar.  
 [Ikarus 280](https://explozaogamer.com.br/2023/06/11/mod-ikarus-280-48-fase-2/)  
 [Youtube link](https://youtu.be/xmq_XoZiA4A)  
 Password: Unacceptium  
@@ -50,11 +54,6 @@ Modified:
 [Citaro](https://explozaogamer.com.br/2023/10/17/mod-mercedes-benz-citaro-o530g-fase-2/)  
 [Skin](https://drive.proton.me/urls/1FATEWQT4G#_a97WJFgyHlu)  
 ![alt text](https://i.ytimg.com/vi/14mnkO3i0u4/mqdefault.jpg "citaro")  
-
-## Citaro Berlin BVG
-[youtube](https://youtu.be/MIGZpA_mOSs?si=P7C2qILKgCWLBzKc)  
-![alt text](https://i.ytimg.com/vi/MIGZpA_mOSs/mqdefault.jpg "citaro")  
   
-## Connecto Berlin BVG
-[youtube](https://youtu.be/NpS0p2jTREM?si=q5QY9le0w8JzHGdi)  
-![alt text](https://i.ytimg.com/vi_webp/NpS0p2jTREM/mqdefault.webp "conecto")
+---
+_Last updated:2026.01.15_

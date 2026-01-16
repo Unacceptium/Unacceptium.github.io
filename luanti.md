@@ -1,15 +1,18 @@
 # Luanti content
-- Advtrains liveries
-- Metrotest map project
-- Simple MT mods
-
+  
+**Quick Navigation W.I.P**  
+[AdvTrains Liveries](https://unacceptium.github.io/luanti.html#advtrains-liveries)  
+[Metrotest Map Project](https://unacceptium.github.io/luanti.html#metrotest-map-project)  
+[Simple Minetest Mods](https://unacceptium.github.io/luanti.html#simple-mt-mods)  
+  
 ## Advtrains liveries
 **download link below all↓**
 for some reason it seem that image linking doesnt work with these images, click on "showcase image" to view them.  
   
 for basic subway wagon
 81-71 prague HD skin
-[Showcase image](https://forum.luanti.org/download/file.php?id=28826)  
+[Showcase image](https://forum.luanti.org/download/file.php?id=28828)  
+![alt text](https://forum.luanti.org/download/file.php?id=28828 "img") if this image links i will replace the links of images with the images themselves.
 
 for basic subway wagon
 81-71 prague PID skin
@@ -35,20 +38,17 @@ PanoJET fictional livery (my favorite)
 
 # Metrotest Map Project
 
+## Latest Unofficial Releases
+**Nazalassa's edition**
+[Download link](https://drive.proton.me/urls/PA66Q4K0HW#I0qHVzjgfklx) based on 3.6 (they also released an automated version based on 3.6 bit later)
+
 ## history/about
 Metrotest is about driving a light–metro in very simple environment. the sections and stations are very simple, made to run on literal(!) potato devices, and has NO automation.
 some of the earlier versions of the map reached about 30 downloads, and the current (as writing, is 3.5) just released a while ago and already got 5 downloads. thanks to all of you for comments and downloads! i never expected myself to get this far!
 
 first, it was just an experimentation. trying out MT and advtrains.then i made one short underground scene with two stops. i played that for months, i was proud of myself xd. so i started to expand it and i reached a point where i had a lot built and i wanted to show it to someone. first i posted on reddit. i got more than 32 upvotes for some of my screenshots, and some nice comments!
 
-## Latest Unofficial Releases
-**Nazalassa's edition**
-[Download link](https://drive.proton.me/urls/PA66Q4K0HW#I0qHVzjgfklx) based on 3.6
-**Nazalassa's Automated version**
-[Forum comment with link](https://forum.luanti.org/viewtopic.php?p=448480#p448480)
-
 ## Latest Official Release
-the project may gonna be finally abandoned. my phone i made the map is dying, i got a new tab but Shizuku fails to set up on it so i can't get the map in or exported over there.
 3.6
 this version consist mostly of extension,
 precisely double tracks, one for one direction.
@@ -59,7 +59,12 @@ them are finished in design
 - platforms. its just a concrete "panel" of 0.5.
 - turn off collision with non-full blocks in AdvTrains settings, new platforms and some sections will make the train get stuck instead.
 [image1](https://forum.luanti.org/download/file.php?id=30700) [image2](https://forum.luanti.org/download/file.php?id=30699) [DOWNLOAD proton drive 200mb zip (deleted when new version is up)](https://drive.proton.me/urls/G2HKW75QQG#wtkEa9zh3LZy)
-![alt text](https://i.ytimg.com/vi_webp/KsxWgKMo16I/mqdefault.webp "3.5") 3.5 video thumbnail
+![alt text](https://i.ytimg.com/vi_webp/KsxWgKMo16I/mqdefault.webp "3.5") 3.5 video thumbnail  
+
+---
+
+[3.8 SNEAK PEEK (not the final version!)](https://www.youtube.com/watch?v=1F8av6-Swhs) even more changes were made since this video got recorded.  
+![3.8](https://i.ytimg.com/vi/1F8av6-Swhs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5vhKhjPoW2IU6u4dyAV-FwqoDqw "img")
 
 # simple MT mods
 
@@ -72,6 +77,9 @@ this is a simple mod with blocks and a designed texture. meant to be used in man
 ![alt text](https://content.luanti.org/uploads/742617d198.png "spdlimit")  
 - 3,5,10,15,20 are speed limits. colors are from the Metrotest project, meant to replace the original color-coded speed limit indications.
 - M means " Megálló" translates to Station/Stop, meant to indicate an upcoming station/where to stop at the station.
-- V means that over there is where the speed limit applies. place the speed limit number block in a distance where the driver can start slowing down until the V block.  
+- V is where the speed limit applies. example situation: train going with 20. driver sees speed limit 10. driver starts slowing down. driver sees speed limit applier sign 'V' in the distance, sets brake level accordingly. trains slowed down to 10 already when reached the speed limit applier 'V'. im not sure if this exist in other countries or systems, if it does then you may be familiar wirh it already.
 
 [CDB](https://content.luanti.org/packages/unacceptium_core/spdlimit/)
+
+---
+_last update:2026.1.15_
