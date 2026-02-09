@@ -1,50 +1,38 @@
 # Luanti content
   
-**Quick Navigation W.I.P**  
+**Quick Navigation**  
 [AdvTrains Liveries](https://unacceptium.github.io/luanti.html#advtrains-liveries)  
 [Metrotest Map Project](https://unacceptium.github.io/luanti.html#metrotest-map-project)  
 [Simple Minetest Mods](https://unacceptium.github.io/luanti.html#simple-mt-mods)  
   
 ## Advtrains liveries
 **download link below all↓**
-for some reason it seem that image linking doesnt work with these images, click on "showcase image" to view them.  
+screenshots are uploaded in a Luanti Forums topic what i wasnt been able to view without logging in. if you have a profile over there then [you can look at the screenshots in this topic](https://forum.luanti.org/viewtopic.php?p=438580#p438580) be informed that i am not checking the forums anymore and wont be replying to your replies or DMs.
   
-for basic subway wagon
-81-71 prague HD skin
-[Showcase image](https://forum.luanti.org/download/file.php?id=28828)  
-![alt text](https://forum.luanti.org/download/file.php?id=28828 "img") if this image links i will replace the links of images with the images themselves.
+- for basic subway wagon
+  - 81-71 prague iconic skin
+  - 81-71 prague PID skin
+- for silberling wagon
+  - LEW MXA skin for both driver and intermediate cars
+  - ICE livery
+- for Classic Coaches
+  - ČD skin
+- for new japanese bullet and mesejet (they use same model)
+  - PanoJET fictional livery (my favorite)
 
-for basic subway wagon
-81-71 prague PID skin
-[Showcase image](https://forum.luanti.org/download/file.php?id=28840)  
-
-for silberling wagon
-LEW MXA skin for both driver and intermediate cars
-[Showcase image](https://forum.luanti.org/download/file.php?id=28828)  
-
-for silberling driver and intermediate wagons
-ICE livery
-[showcase link](https://forum.luanti.org/download/file.php?id=29159)  
-  
-for Classic Coaches
-ČD skin
-[Showcase image](https://forum.luanti.org/download/file.php?id=29119)  
-  
-for new japanese bullet and mesejet (they use same model)
-PanoJET fictional livery (my favorite)
-[showcase exterior](https://forum.luanti.org/download/file.php?id=29695) [interior showcase](https://forum.luanti.org/download/file.php?id=29696)  
 ### download
 [Proton Drive shared folder (timeless)](https://drive.proton.me/urls/G9FMDFCQBM#NIbR3v6t655V)  
 
 # Metrotest Map Project
 
 ## Latest Unofficial Releases
-**Nazalassa's edition**
-[Download link](https://drive.proton.me/urls/PA66Q4K0HW#I0qHVzjgfklx) based on 3.6 (they also released an automated version based on 3.6 bit later)
+**Nazalassa's version**
+[Download link](https://drive.proton.me/urls/PA66Q4K0HW#I0qHVzjgfklx) based on 3.6  
+**Nazalassa's automated version**
+[link of the reply](https://forum.luanti.org/viewtopic.php?p=448480#p448480) with download link of course/ based on 3.6
 
 ## history/about
-Metrotest is about driving a light–metro in very simple environment. the sections and stations are very simple, made to run on literal(!) potato devices, and has NO automation.
-some of the earlier versions of the map reached about 30 downloads, and the current (as writing, is 3.5) just released a while ago and already got 5 downloads. thanks to all of you for comments and downloads! i never expected myself to get this far!
+Metrotest is about driving a light–metro in very simple environment. the sections and stations are very simple, made to run on literal(!) potato devices, and has NO automation. thanks to all of you for comments and downloads! i never expected myself to get this far!
 
 first, it was just an experimentation. trying out MT and advtrains.then i made one short underground scene with two stops. i played that for months, i was proud of myself xd. so i started to expand it and i reached a point where i had a lot built and i wanted to show it to someone. first i posted on reddit. i got more than 32 upvotes for some of my screenshots, and some nice comments!
 
@@ -64,7 +52,8 @@ them are finished in design
 ---
 
 [3.8 SNEAK PEEK (not the final version!)](https://www.youtube.com/watch?v=1F8av6-Swhs) even more changes were made since this video got recorded.  
-![3.8](https://i.ytimg.com/vi/1F8av6-Swhs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5vhKhjPoW2IU6u4dyAV-FwqoDqw "img")
+![3.8](https://i.ytimg.com/vi/1F8av6-Swhs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5vhKhjPoW2IU6u4dyAV-FwqoDqw "img")  
+due to modern android being modern android, until Luanti devs make world importing-exporting a feature ingame (and they probably never bc its not enough important to triage(thats why even bugs from 2014 are still in the game)), i have to use Shizuku but its unreliable on my phone so its really difficult to work with. this is the main reason why i dont update frequently.
 
 # simple MT mods
 
@@ -82,4 +71,4 @@ this is a simple mod with blocks and a designed texture. meant to be used in man
 [CDB](https://content.luanti.org/packages/unacceptium_core/spdlimit/)
 
 ---
-_last update:2026.1.15_
+_last update:2026.1.29_
