@@ -2,6 +2,9 @@
 layout: default
 title:  The Unacceptium Github pages
 ---
+
+<script src="https://keepandroidopen.org/banner.js"></script>
+
 ![favicon.ico](https://unacceptium.github.io/favicon.ico "favicon")**Welcome on my Github Pages site!**
 these pages are written in Markdown, using foss app Quillnote from f-droid.  
 there was no AI used in any of the content shown on this site. ai was only used for minimal information research, ex. for learning about github pages.  
