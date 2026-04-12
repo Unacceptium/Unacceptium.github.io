@@ -57,10 +57,15 @@ due to modern android being modern android, until Luanti devs make world importi
 
 # simple MT mods
 
+## 14 segment display blocks
+this is a simple 14 segment display used as a texture on blocks, has 0-9, a-z and some symbols.
+![alt text](https://github.com/Unacceptium/14segmentdisplayblocks/blob/main/Screenshot_20250808-160657.png?raw=true "screenshot")
+[Github](https://github.com/Unacceptium/14segmentdisplayblocks/tree/main)
+
 ## 8 segment display blocks
 this is a simple 8 segment display used as texture on blocks  
 has 0-9, a-z and some symbols
-![alt text](https://content.luanti.org/uploads/30aa459430.png "8sdp") [CDB](https://content.luanti.org/packages/unacceptium_core/8segmentdisplayblocks/)  
+![alt text](https://content.luanti.org/uploads/30aa459430.png "8sdp") [CDB](https://content.luanti.org/packages/unacceptium_core/8segmentdisplayblocks/) [Github](https://github.com/Unacceptium/8segmentdiplayblocks)
 ## speed limit sign blocks
 this is a simple mod with blocks and a designed texture. meant to be used in manually driven advtrains railway lines, as they are very visible and has big numbers.
 ![alt text](https://content.luanti.org/uploads/742617d198.png "spdlimit")  
@@ -71,4 +76,4 @@ this is a simple mod with blocks and a designed texture. meant to be used in man
 [CDB](https://content.luanti.org/packages/unacceptium_core/spdlimit/)
 
 ---
-_last update:2026.1.29_
+_last update:2026.4.12_
