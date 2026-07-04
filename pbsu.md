@@ -1,5 +1,7 @@
 # Proton Bus Skins, edits
 
+*i have no more motivation to work on pbs skins by now. maybe in the future, not now. no guarantee that i come back to it at all. okay maybe if i get a request i may do it but nothing more by now*
+
 i have slowed down in making of repaints lately. there are no cool mods which happen to fall under my interests and those which fall under my interests arent cool mods. all others either already has repaints or planned to have. my goal is not to be the best skin maker, instead to make skins what no one does. the opposite did and may happen in the future too, except thats not my main goal.
 
 ## E91 Budapest old
@@ -56,4 +58,4 @@ Modified:
 ![alt text](https://i.ytimg.com/vi/14mnkO3i0u4/mqdefault.jpg "citaro")  
   
 ---
-_Last updated:2026.01.15_
+_Last updated:2026.04.30_

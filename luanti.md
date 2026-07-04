@@ -6,6 +6,9 @@
 [Simple Minetest Mods](https://unacceptium.github.io/luanti.html#simple-mt-mods)  
   
 ## Advtrains liveries
+
+**important:** luanti players seem to not really care about advtrains in overall lately. simple livery mods are available like the livery editor, or some mods have their own like the minitram. making skins is unsupported by the game devs, so best we have is simplified liveries. i don't want to care about making skins unless this perspective changes.
+
 **download link below all↓**
 screenshots are uploaded in a Luanti Forums topic what i wasnt been able to view without logging in. if you have a profile over there then [you can look at the screenshots in this topic](https://forum.luanti.org/viewtopic.php?p=438580#p438580) be informed that i am not checking the forums anymore and wont be replying to your replies or DMs.
   
@@ -25,16 +28,19 @@ screenshots are uploaded in a Luanti Forums topic what i wasnt been able to view
 
 # Metrotest Map Project
 
-## Latest Unofficial Releases
-**Nazalassa's version**
-[Download link](https://drive.proton.me/urls/PA66Q4K0HW#I0qHVzjgfklx) based on 3.6  
-**Nazalassa's automated version**
-[link of the reply](https://forum.luanti.org/viewtopic.php?p=448480#p448480) with download link of course/ based on 3.6
+## news
+metrotest 3.8 got lost. i tried to update my copy of the dev version with the release version. android being android did not allow me. anyway i lost all my progress, and have no intention to redo it.
 
 ## history/about
 Metrotest is about driving a light–metro in very simple environment. the sections and stations are very simple, made to run on literal(!) potato devices, and has NO automation. thanks to all of you for comments and downloads! i never expected myself to get this far!
 
 first, it was just an experimentation. trying out MT and advtrains.then i made one short underground scene with two stops. i played that for months, i was proud of myself xd. so i started to expand it and i reached a point where i had a lot built and i wanted to show it to someone. first i posted on reddit. i got more than 32 upvotes for some of my screenshots, and some nice comments!
+
+## Latest Unofficial Releases
+**Nazalassa's version**
+[Download link](https://drive.proton.me/urls/PA66Q4K0HW#I0qHVzjgfklx) based on 3.6  
+**Nazalassa's automated version**
+[link of the reply](https://forum.luanti.org/viewtopic.php?p=448480#p448480) with download link of course/ based on 3.6
 
 ## Latest Official Release
 3.6
@@ -76,4 +82,4 @@ this is a simple mod with blocks and a designed texture. meant to be used in man
 [CDB](https://content.luanti.org/packages/unacceptium_core/spdlimit/)
 
 ---
-_last update:2026.4.12_
+_last update:2 0 2 6 . 0 4 . 3 0_
