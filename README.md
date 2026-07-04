@@ -7,3 +7,5 @@ this usually applies to my content as well, unless clearly indicated (mod modifi
   
 open site
 \>> [Unacceptium Github Pages](https://unacceptium.github.io/) \<<
+  
+i could use this as a mini-index, maybe i will…
