@@ -1,5 +1,9 @@
-<link rel="icon" href="/favicon.png" type="image/png">
+## simple github pages site
 
-# Unacceptium.github.io
-personal site, goal is to make a small community site where we can share PBS skins, edits and some Luanti content  
-you CAN make issues just to communicate with me.
+this project is done for connecting my work around the internet, to provide easy navigation between content i made and such.  
+  
+all of these were made entirely in android app Quillpad in markdown. no already existing content were used.  
+this usually applies to my content as well, unless clearly indicated (mod modifications for example).  
+  
+open site
+\>> [Unacceptium Github Pages](https://unacceptium.github.io/) \<<
