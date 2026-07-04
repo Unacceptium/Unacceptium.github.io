@@ -3,8 +3,6 @@ layout: default
 title:  The Unacceptium Github pages
 ---
 
-<script src="https://keepandroidopen.org/banner.js?size=minimal&animation=off"></script>
-
 
 **i do not play msts. i do not play omsi. i have directly written a list of the games i play and can help in/make liveries in on the site you probably got redirected from. please ask someone else if you want liveries or help in microfos train simulator MSTS, omnibus simulator OMSI, or anything else what is not hmmsim, luanti or proton bus.** i have **never** played those games, **never** will because i have no computer and they are paid. **i cannot help or make liveries or mods in those games.**
 
