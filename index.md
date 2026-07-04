@@ -4,18 +4,23 @@ title:  The Unacceptium Github pages
 ---
 
 
-**i do not play msts. i do not play omsi. i have directly written a list of the games i play and can help in/make liveries in on the site you probably got redirected from. please ask someone else if you want liveries or help in microfos train simulator MSTS, omnibus simulator OMSI, or anything else what is not hmmsim, luanti or proton bus.** i have **never** played those games, **never** will because i have no computer and they are paid. **i cannot help or make liveries or mods in those games.**
-
-### thank you for your understanding of the statement above, and be aware that your message will be deleted, you will be banned and blocked otherwise.
-
----
-
 ![favicon.ico](https://unacceptium.github.io/favicon.ico "favicon")**Welcome on my Github Pages site!**  
 ![youtube banner](https://yt3.googleusercontent.com/JUpGA_oICQH4ZLN7S5il_Q-C3tscnXSfDmf2-qkuJ6lPkAlReiZKG0Bm2KP2CR2_Wbga9dgbgoY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj "youtube-banner")  
   
 I do photo edits, skins/liveries for games, simple addons, and gameplay content. this site is for collecting all of them.  
   
 ![alt text](https://cdn.rory.server.spacebar.chat/banners/1475727624237846074/2d48f599298b8fbb3d1995bebc051aaa.png?size=160&keep_aspect_ratio=false&animated=true "banner2")  
+  
+**Quick links**  
+[Instant navigation](https://unacceptium.github.io/#navigation)  
+[About](https://unacceptium.github.io/#about)  
+[Current project](unacceptium.github.io#current-projects)  
+[Contact](https://unacceptium.github.io/#contact)  
+[Current hardvare](unacceptium.github.io#current-hardvare)      
+  
+**i do not play msts. i do not play omsi. i have directly written a list of the games i play and can help in/make liveries in on the site you probably got redirected from. please ask someone else if you want liveries or help in microfos train simulator MSTS, omnibus simulator OMSI, or anything else what is not hmmsim, luanti or proton bus.** i have **never** played those games, **never** will because i have no computer and they are paid. **i cannot help or make liveries or mods in those games.**  
+  
+### thank you for your understanding of the statement above, and be aware that your message will be deleted, you will be banned and blocked otherwise.  
   
 stuff look a bit weird by now.
 - android is [locking down,](https://keepandroidopen.org/) and since i rely on developer builds, i am fked.
@@ -25,15 +30,8 @@ idk what gonna happen. idk if updating this site has any use at all, i don't thi
   
 **this does not mean i don't accept requests for skins or mod edits. i just won't make any unless someone directly asks.**  
   
-**Quick links**
-[Navigation](https://unacceptium.github.io/#navigation)  
-[About](https://unacceptium.github.io/#about)  
-[Current project](unacceptium.github.io#current-projects)
-[Contact](https://unacceptium.github.io/#contact)  
-[Current hardvare](unacceptium.github.io#current-hardvare)  
+### Navigation  
   
-### Navigation
-
 if you want to request a proton bus skin, advtrains livery, feel free to make an issue on this site's repo, comment on my yt videos or send a direct message on any of the other sites found here.
 **on-site**
   
@@ -74,9 +72,9 @@ site collecting photography of foxes. creator intended the site to collect the m
 
 ### Current projects
 
-| Evertech Sandbox | Luanti
+| Evertech Sandbox | Luanti |
 |----|---|
-| Guided LightTransit (stopped) | Metrotest (still trying to recover project) |
+| Guided Light Transit (stopped) | Metrotest (still trying to recover project) |
 | Buses (in progress, soon YT videos) | - |
 | curb-guided bus (mono, center rail)(presentable, soon YT video) | - |
 
@@ -107,12 +105,19 @@ site collecting photography of foxes. creator intended the site to collect the m
 ### Current hardvare
 this lists the devices i use to make content. i moved this section down as most people probaly don't care.
 
-| Name   |  Image  | Function |
+| Name | Function |
 |----|----| -- |
-| Siemens [Gigaset GX4 Pro](https://www.gigaset.com/hq_en/gigaset-gx4-pro/) | ![alt text](https://www.gigaset.com/media/catalog/product/cache/36/image/1800x/040ec09b1e35df139433887a97daa66f/s/m/smartphone-display-gx4-pro_black_2024_low-res_2.jpg "official photo")   | Uploading, photo editing, resource gathering (a legend!) |
-| [Honor Pad X8A](https://www.honor.com/hu/tablets/honor-pad-x8a/) | ![alt text](https://www-file.honor.com/content/dam/honor/hu/products/tablets/honor-pad-x8a/assets/imgs/section-1/sec1-bgd-mob.jpg "photo") | Gaming, screenrecording, video editing (acceptable) |
+| Siemens [Gigaset GX4 Pro](https://www.gigaset.com/hq_en/gigaset-gx4-pro/) | Uploading, photo editing, resource gathering (a legend!) |
+| [Honor Pad X8A](https://www.honor.com/hu/tablets/honor-pad-x8a/) | Gaming, screenrecording, video editing (acceptable) |
 | PAST | DEVICES | IN ORDER |
-| [Ulefone Armor 15](https://www.ulefone.com/products/armor-15) | ![alt text](https://cdn.shopifycdn.net/s/files/1/0830/0573/5193/files/m-product-armor-15-1.jpg?v=1705039484 "photo") | Everything (was disguistingly terrible, even if the design is legendary) |
+| [Ulefone Armor 15](https://www.ulefone.com/products/armor-15) | Everything (was disguistingly terrible, even if the design is legendary) |
+| [Honor X7A](https://www-file.honor.com/content/dam/honor/hu/products/smartphone/honor-x7a) | Everything (weren't too good) |
+| Siemens [Gigaset GS190](https://web.archive.org/web/20190916004736/https://www.gigaset.com/de_de/gigaset-gs190) | Everything (was a legend!) |
+
+
+---
+
+[GH Repo](https://github.com/Unacceptium/Unacceptium.github.io) _last update:2026.07.04_net/s/files/1/0830/0573/5193/files/m-product-armor-15-1.jpg?v=1705039484 "photo") | Everything (was disguistingly terrible, even if the design is legendary) |
 | [Honor X7A](https://www-file.honor.com/content/dam/honor/hu/products/smartphone/honor-x7a) | ![alt text](https://www-file.honor.com/content/dam/honor/hu/products/smartphone/honor-x7a/imgs/sec-1/sec-1-1-mob1.jpg "") | Everything (weren't too good) |
 | Siemens [Gigaset GS190](https://web.archive.org/web/20190916004736/https://www.gigaset.com/de_de/gigaset-gs190/) | ![alt text](https://media.s-bol.com/mO0L6B26Z3VR/550x550.jpg "") | Everything (was a legend!) |
 
