@@ -5,11 +5,19 @@ title:  The Unacceptium Github pages
 
 
 ![favicon.ico](https://unacceptium.github.io/favicon.ico "favicon")**Welcome on my Github Pages site!**  
+  
+---
+  
+**Android is [locking down](https://keepandroidopen.org), the freedom to install any software you want will not be an option anymore! please check the [Keep Android Open website](https://keepandroidopen.org) for more info, as well as steps what we can do to hopefully change Google's mindset about this change!**  
+This is a really bad 'game changer', as a lot of us, like myself, are relying on developer builds and unreleased versions, what will no longer be an option after the **september deadline**. More of us take the required steps against it, bigger the chance Google changes their idea about this horrible change in the ecosystem!  
+  
+---
+  
 ![youtube banner](https://yt3.googleusercontent.com/JUpGA_oICQH4ZLN7S5il_Q-C3tscnXSfDmf2-qkuJ6lPkAlReiZKG0Bm2KP2CR2_Wbga9dgbgoY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj "youtube-banner")  
   
 I do photo edits, skins/liveries for games, simple addons, and gameplay content. this site is for collecting all of them.  
   
-![alt text](https://cdn.rory.server.spacebar.chat/banners/1475727624237846074/2d48f599298b8fbb3d1995bebc051aaa.png?size=160&keep_aspect_ratio=false&animated=true "banner2")  
+![alternative banner](https://cdn.rory.server.spacebar.chat/banners/1475727624237846074/2d48f599298b8fbb3d1995bebc051aaa.png?size=160&keep_aspect_ratio=false&animated=true "banner2")  
   
 **Quick links**  
 [Instant navigation](https://unacceptium.github.io/#navigation)  
@@ -18,22 +26,19 @@ I do photo edits, skins/liveries for games, simple addons, and gameplay content.
 [Contact](https://unacceptium.github.io/#contact)  
 [Current hardvare](unacceptium.github.io#current-hardvare)      
   
-**i do not play msts. i do not play omsi. i have directly written a list of the games i play and can help in/make liveries in on the site you probably got redirected from. please ask someone else if you want liveries or help in microfos train simulator MSTS, omnibus simulator OMSI, or anything else what is not hmmsim, luanti or proton bus.** i have **never** played those games, **never** will because i have no computer and they are paid. **i cannot help or make liveries or mods in those games.**  
+**on this site, you will NOT find the following:**
+- OMSI, OMSI2 related content like skins, mods or maps
+- MSTS related content like skins, mods or maps
+- scrap mechanic blueprints or tutorials
+- advertisement options for your bizarre websites (if not your thing, then just skip)  
   
-### thank you for your understanding of the statement above, and be aware that your message will be deleted, you will be banned and blocked otherwise.  
-  
-stuff look a bit weird by now.
-- android is [locking down,](https://keepandroidopen.org/) and since i rely on developer builds, i am fked.
-- for some reason no good pbsu mods are surfacing lately, and they instantly get skins i would lile to make.
-
-idk what gonna happen. idk if updating this site has any use at all, i don't think anyone reads this at all. i have no inspiration lately, lost the metrotest map to top it off, and my workplace also fked things up so i don't even have energy to do pbs or minetest stuff at all.  
-  
-**this does not mean i don't accept requests for skins or mod edits. i just won't make any unless someone directly asks.**  
+my new [hardware setup](unacceptium.github.io#current-hardvare) is kind of good now, i plan on becoming more active in the near future. allways check the [current projects section](unacceptium.github.io#current-projects) for updates, i will update regurarly if i don't forget to. now i have ideas for proton bus skins, for some buses you might not be interested in really, but i like them, so skins like the old Hungarian skin for a fictional Brasilin electric bus, what you can see in a post on my youtube [channel](https://youtube.com/@unacceptium_core) is one of those skins i want to release someday.  
   
 ### Navigation  
   
-if you want to request a proton bus skin, advtrains livery, feel free to make an issue on this site's repo, comment on my yt videos or send a direct message on any of the other sites found here.
-**on-site**
+if you want to request a proton bus skin, advtrains livery, feel free to make an issue on this site's repo, comment on my yt videos or send a direct message on any of the other sites found here.  
+  
+**on-site**  
   
 [Proton Bus Skins, Edits](pbsu.md)  
 Repaints for buses, configurations fixes like collision box sizes, and youtube videos showcasing all of them.
@@ -68,15 +73,15 @@ site collecting photography of foxes. creator intended the site to collect the m
 
 - Discord:`Unacceptium_core`  (online almost daily)
 - Stoat (formely Revolt):`Unacceptium_Core#0426`  (online almost daily)
-- Spacebar/Fermo: `Unacceptium#1463`
+- Spacebar/Fermo: `Unacceptium#1463` (it randomly logs me out, so i have no intention to keep it up. maybe i will delete from here too)
 
 ### Current projects
 
-| Evertech Sandbox | Luanti |
-|----|---|
-| Guided Light Transit (stopped) | Metrotest (still trying to recover project) |
-| Buses (in progress, soon YT videos) | - |
-| curb-guided bus (mono, center rail)(presentable, soon YT video) | - |
+| Luanti | Still trying to recover the Metrotest project | - | - |
+|---|---|---|---|
+|Evertech Sandbox|Guided Light Transit (in presentable state now|Curb-gided bus (mono, central steering curb, presentable state by now)|buses, constantly building and modifying buses ti make a youtube video about|
+|Proton bus|BKV skin for Techno Raffica 2-2 door version, soon released|-|-|
+|fictional bus brand|a lot of designs are ready to be presented, i am currently organizing the project and trying ti find a place to upload them.|-|-|
 
   
 ### About
@@ -100,28 +105,22 @@ site collecting photography of foxes. creator intended the site to collect the m
   - melodic dubstep, hardstyle, rawstyle
   - metalstep, filthstep, death and trash metal
 - i am from 🇭🇺's capital, especially one of those locations where Lion's City A21 and AG/NewAG300 buses turn around.
-- i like foxes, mainly cross, original red, silver and darwin ones. i got this interest a while ago, and still not completely sure why i like them (because i kind of dislike animals in overall), but since they are not humans, they have no human problems and probably thats the main reson outside their look and behaviour, what i also like.  
+- i like foxes, mainly cross, original red, silver and darwin ones. i got this interest a while ago, and still not completely sure why i like them. since they are not humans, they have no human problems and probably thats the main reson outside their look, design and behaviour, what i also like.  
 
 ### Current hardvare
-this lists the devices i use to make content. i moved this section down as most people probaly don't care.
+this lists the devices i use to make content. i moved this section down as most people probaly don't care.  
+this list was written, because seeing how some hardware interacts with these kind of heavy games, is good for reference.
 
 | Name | Function |
-|----|----| -- |
-| Siemens [Gigaset GX4 Pro](https://www.gigaset.com/hq_en/gigaset-gx4-pro/) | Uploading, photo editing, resource gathering (a legend!) |
+|----|----|
+| [Gigaset GX4 Pro](https://www.gigaset.com/hq_en/gigaset-gx4-pro/) | Uploading, photo editing, resource gathering (a legend!) |
 | [Honor Pad X8A](https://www.honor.com/hu/tablets/honor-pad-x8a/) | Gaming, screenrecording, video editing (acceptable) |
-| PAST | DEVICES | IN ORDER |
-| [Ulefone Armor 15](https://www.ulefone.com/products/armor-15) | Everything (was disguistingly terrible, even if the design is legendary) |
-| [Honor X7A](https://www-file.honor.com/content/dam/honor/hu/products/smartphone/honor-x7a) | Everything (weren't too good) |
-| Siemens [Gigaset GS190](https://web.archive.org/web/20190916004736/https://www.gigaset.com/de_de/gigaset-gs190) | Everything (was a legend!) |
+| PAST DEVICES | IN ORDER |
+| [Ulefone Armor 15](https://www.ulefone.com/products/armor-15) | Everything (was disgustingly terrible, even if the design is legendary) |
+| [Honor X7A](https://www-file.honor.com/content/dam/honor/hu/products/smartphone/honor-x7a) | Everything (weren't too good, but was totally acceptable) |
+| [Gigaset GS190](https://web.archive.org/web/20190916004736/https://www.gigaset.com/de_de/gigaset-gs190) | Everything (was a legend!) |
 
 
 ---
 
-[GH Repo](https://github.com/Unacceptium/Unacceptium.github.io) _last update:2026.07.04_net/s/files/1/0830/0573/5193/files/m-product-armor-15-1.jpg?v=1705039484 "photo") | Everything (was disguistingly terrible, even if the design is legendary) |
-| [Honor X7A](https://www-file.honor.com/content/dam/honor/hu/products/smartphone/honor-x7a) | ![alt text](https://www-file.honor.com/content/dam/honor/hu/products/smartphone/honor-x7a/imgs/sec-1/sec-1-1-mob1.jpg "") | Everything (weren't too good) |
-| Siemens [Gigaset GS190](https://web.archive.org/web/20190916004736/https://www.gigaset.com/de_de/gigaset-gs190/) | ![alt text](https://media.s-bol.com/mO0L6B26Z3VR/550x550.jpg "") | Everything (was a legend!) |
-
-
----
-
-[GH Repo](https://github.com/Unacceptium/Unacceptium.github.io) _last update:2026.07.04_
+[GH Repo](https://github.com/Unacceptium/Unacceptium.github.io) _last update:2026.08.18_
