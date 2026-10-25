@@ -19,7 +19,15 @@ I do photo edits, skins/liveries for games, simple addons, and gameplay content.
 [Contact](https://unacceptium.github.io/#contact)  
 [Current hardvare](unacceptium.github.io#current-hardvare)      
   
+**on this site, you MIGHT find the following:**
+
+- evertech sandbox blueprints
+- proton bus skins, mod fixes
+- hmmsim skins (as i might come back to it)
+- luanti maps and advtrains skins
+
 **on this site, you will NOT find the following:**
+
 - OMSI, OMSI2 related content like skins, mods or maps
 - MSTS related content like skins, mods or maps
 - scrap mechanic blueprints or tutorials
@@ -28,9 +36,11 @@ I do photo edits, skins/liveries for games, simple addons, and gameplay content.
 ---
   
 **Android is [locking down](https://keepandroidopen.org), the freedom to install any software you want will not be an option anymore! please check the [Keep Android Open website](https://keepandroidopen.org) for more info, as well as steps what we can do to hopefully change Google's mindset about this change!**  
-it looks like our petitions, open letter and and such dud not make any difference yet, and there i little hope of change now, 2027 is very close and they already released the updates, a lot of people already have the verification even though it was supposed to arrive in 2027.  
-I don't know what to do, i am thinking about a pre- cutsom-rom -ed phone, as i have no PC to rom a phone with; volla X23 is basically the same phone i have, just with VollaOS/ubuntu. or a murena with /e/, it looks promising as well. i really don't wan't to change, i liked android a lot and still do, it gives enough freedom to me (at least before android 11, but 14 is still kind of acceptable in this view) as i only work with ureleased and developer apks.   
+it looks like our petitions, open letter and and such did not make any difference yet, and there is little hope of change now, 2027 is very close and they already released the updates, a lot of people already have the verification even though it was supposed to arrive in 2027.  
+I don't know what to do, i am thinking about a pre- cutsom-rom -ed phone, as i have no PC to rom a phone with; volla X23 is basically the same phone i have, just with VollaOS/ubuntu. or a murena with /e/, it looks promising as well. i really don't wan't to change, i liked android a lot and still do, it gives enough freedom to me (at least before android 11, but 14 is still kind of acceptable in this view) as i only work with ureleased and developer apks.    
 
+on age verification/eu kids act, what i read, it will be very simple and easy-to-set-up process, least possible privacy concerns and basically nothing i would worry of. at least on what i read, hopefully it will be that way.   
+  
 ---
   
 my new [hardware setup](unacceptium.github.io#current-hardvare) is kind of good now, i plan on becoming more active in the near future. allways check the [current projects section](unacceptium.github.io#current-projects) for updates, i will update regurarly if i don't forget to. now i have ideas for proton bus skins, for some buses you might not be interested in really, but i like them, so skins like the old Hungarian skin for a fictional Brasilin electric bus, what you can see in a post on my youtube [channel](https://youtube.com/@unacceptium_core) is one of those skins i want to release someday.  
@@ -67,31 +77,30 @@ a very old forum where we uploaded edits of buses, ex. triarticulated buses or l
   
 **others of my interests**
   
-[Időkép](https://www.idokep.hu/keptar/user/unacceptium)  
-Site where we upload photos of nature and weather. Main feature is weather.  
-
 [FindAFox](https://findafox.net/user/Unacceptium)  
-site collecting photography of foxes. creator intended the site to collect the most beautiful, open licensed photography but be aware that most of the new users are unable to follow this, neither can they tag correctly resulting in blacklists being useless. i sadly seen this happen on other sites…  
+site collecting photography of foxes. creator intended the site to collect the most beautiful fox photos. however, lately site is full of not-so-pretty foxos, so i cannot recommend visiting. i might even get rid of the link someday.  
   
 ### Contact
 
-- Discord:`Unacceptium_core`  (online abput weekly unless i expect responses)
-- Stoat (formely Revolt):`Unacceptium_Core#0426`  (online almost daily)
- 
-
+- Discord:`Unacceptium_core` 
+- Stoat (formely Revolt):`Unacceptium_Core#0426`
+my online frequency depens on how much interactions i expect.
+   
 ### Current projects
-
+  
 | game | content | - | - |
 |---|---|---|---|
-|Evertech Sandbox|Guided Light Transit (in presentable state now|Curb-guided bus (mono, central steering curb, now releasing videos of)|buses, constantly building and modifying buses to make a youtube video about|
+|Evertech Sandbox|Guided Light Transit (videos coming)|Curb-guided bus (mono, central steering curb, soon releasing videos of)|buses, constantly building and modifying buses to make a youtube video about|
 |Proton bus|BKV skin for Techno Raffica 2-2 door version, soon released|-|-|
 |fictional bus brand|a lot of designs are ready to be presented. soon getting them on my proton drive.|-|-|
+|luanti|i got 5.18, and going to join a|big project on a server to build|a klein bottle, with help of CSMs|
 
   
 ### About  
 - I'm a fan of artiulated low entry intercity spurbuses and low entry tramtrains. i favorite diesel, inline hybrid, wired electric with diesel generator and dualmode powertrains.
+- about electric vehicles, latest ones are cool, but i like ones with floor-integrated batteries, as they have weight point on low.
 - My profession is welder, i learned tungsten, stick, mag and flame welding.
-- i got TPAW and TPEB robot programming and operating course. the factory seemed to be really wanting me to be a robot operator but they got me off the robot for no reason.
+- i got TPAW and TPEB robot programming and operating course.
 - i like those old experimental and feature phones, like slide-out keyboards and rotate-out cameras, my current phone has some quirks and gimmics too, so i kind of kept this interest to today
 - my music taste consists of:  
   - melodic and raw extratone-ultratone, splittercore
@@ -109,20 +118,16 @@ this list was written, because seeing how some hardware interacts with these kin
 | [Gigaset GX4 Pro](https://www.gigaset.com/hq_en/gigaset-gx4-pro/) | Uploading, photo editing, resource gathering (a legend!) |
 | [Honor Pad X8A](https://www.honor.com/hu/tablets/honor-pad-x8a/) | Gaming, screenrecording, video editing (acceptable) |
 | [Skullcandy Casette](https://www.skullcandy.in/shop/cassette-wireless-on-ear-headphone/) NLA  |  it is a very nice headphone with jack, has good but slightly flickering sound as mine is very old now  |
+| [Samsung HS130](https://www.samsung.com/levant/support/model/EO-HS1303BEGWW/) NLA | found on the bottom of my bag, but still sounds very good |
 | PAST DEVICES | IN ORDER |
 | [Ulefone Armor 15](https://www.ulefone.com/products/armor-15) NLA | Everything (was disgustingly terrible, even if the design is legendary) |
 | [Honor X7A](https://www.honor.com/hu/phones/honor-x7a) | Everything (weren't too good, but was totally acceptable) |
 | [Gigaset GS190](https://web.archive.org/web/20190916004736/https://www.gigaset.com/de_de/gigaset-gs190) NLA | Everything (was a legend!) |
   
 **IMPORTANT**  
-if you consider trying a Gigaset just because it is "German" or because it looks promising, please keep in mind that thr brand got bought by a chineese toy maker Vtech in 2023/2024. both Gigaset branded smartphones here are pre-Vtech devices, even though GX4PRO is still available as of writing, 2026 sept.
+if you consider trying a Gigaset just because it is "German" or because it looks promising, please keep in mind that the brand got bought by a chineese toy maker Vtech in 2023/2024. both Gigaset branded smartphones here are pre-Vtech devices, even though GX4PRO is still available as of writing, 2026 sept.
 
 ---
 
-[GH Repo](https://github.com/Unacceptium/Unacceptium.github.io) _last update:2026.09.21_
-Made In Hungary🇭🇺 on a German🇩🇪 smartphone, in Quillpad from F-froid by Unacceptium_Coreweb/20190916004736/https://www.gigaset.com/de_de/gigaset-gs190) | Everything (was a legend!) |
-
-
----
-
-[GH Repo](https://github.com/Unacceptium/Unacceptium.github.io) _last update:2026.08.18_
+[GH Repo](https://github.com/Unacceptium/Unacceptium.github.io) _last update:2026.10.25_
+Made In Hungary🇭🇺 on a German🇩🇪 smartphone, in Quillpad from F-froid by Unacceptium_Core
