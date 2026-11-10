@@ -6,7 +6,7 @@ _Please do this security check to access the site._
 |  
 |  
   
-| [[]](main.md) I'm not a robot |
+| [🟦](index.md) I'm not a robot |
 |----|
 
 |  
